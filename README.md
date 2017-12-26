@@ -4,7 +4,7 @@ This repo contains the Click example that I'm using throughtout my written tutor
 
 ## The Tutorial
 
-This **branch** contains the example command-line tool created in the tutorial: [Writing Python Command-Line Tools With Click](https://dbader.org/blog/python-commandline-tools-with-click) on dbader.org.
+This **branch** contains the example command-line tool created in the tutorial: [WORK IN PROGRESS](LINK REQUIRED) on dbader.org.
 
 ## Getting Started
 
